@@ -1,6 +1,6 @@
 <?php
 
-namespace PiProvider\Trendyol\DependencyInjection;
+namespace ProductProvider\Trendyol\DependencyInjection;
 
 use Symfony\Component\Config\FileLocator;
 use Symfony\Component\DependencyInjection\ContainerBuilder;

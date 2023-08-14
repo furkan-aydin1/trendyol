@@ -1,11 +1,11 @@
 {
-    "name" : "provider/trendyol",
+    "name" : "product-provider/trendyol",
     "type" : "symfony-bundle",
     "description" : "Trendyol",
     "keywords" : ["Symfony"],
     "autoload": {
         "psr-4": {
-            "Provider\\Trendyol\\": ""
+            "ProductProvider\\Trendyol\\": ""
         }
     },
     "provide": {

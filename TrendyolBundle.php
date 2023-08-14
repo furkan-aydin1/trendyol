@@ -1,8 +1,8 @@
 <?php
 
-namespace Provider\Trendyol;
+namespace ProductProvider\Trendyol;
 
-use PiProvider\Trendyol\DependencyInjection\TrendyolExtension;
+use ProductProvider\Trendyol\DependencyInjection\TrendyolExtension;
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
 class TrendyolBundle extends Bundle
